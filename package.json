@@ -48,10 +48,10 @@
     "fathom-client": "^3.4.1",
     "framer-motion": "^12.23.9",
 
-    "i18next": "^25.3.2",
+    "i18next": "^27.2.7",
     "ky": "^1.8.1",
     "lqip-modern": "^2.2.1",
-    "next": "^15.3.3",
+    "next": "^16.4.6",
     "next-i18next": "^15.4.2",
     "notion-client": "^7.4.2",
     "notion-types": "^7.4.2",
